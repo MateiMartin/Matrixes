@@ -1,2 +1,2 @@
 # Matrix
-This app allows you to make simple operations on matrices
+This app allows you to make simple operations on matrices.
